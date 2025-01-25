@@ -41,7 +41,6 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 Our organization currently supports the following technologies:
 
 ### **Programming Languages**:
-- Python, JavaScript, PHP, Java, Kotlin, C, C++
   
  >[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -49,10 +48,15 @@ Our organization currently supports the following technologies:
   [![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)](https://www.java.com/)
   [![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
   [![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
- >[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
   
 ### **Frameworks**: 
-- Flask, Django, Laravel, React, Springboot
+ >[![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+  [![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
+  [![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white)](https://laravel.com/)
+  [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://reactjs.org/)
+  [![Springboot](https://img.shields.io/badge/-Springboot-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+
   
 ### **Databases**:
 - MySQL, PostgreSQL
