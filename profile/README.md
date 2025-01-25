@@ -35,6 +35,21 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 
 ---
 
+## 💻 **Tech Stack**
+
+Our organization currently supports the following technologies:
+
+- **Programming Languages**: Python, JavaScript, PHP, Kotlin
+- **Frameworks**: Flask, Laravel, React
+- **Databases**: MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Mobile Development**: Kotlin (for Android)
+- **Other Tools**: Docker, ODK (Open Data Kit), Tailwind CSS
+
+We are always open to exploring and adopting new technologies to expand our impact.
+
+---
+
 ## 🚀 **Get Involved**
 
 We welcome contributors from all skill levels! Here's how you can get started:
