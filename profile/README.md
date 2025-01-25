@@ -39,11 +39,11 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 
 Our organization currently supports the following technologies:
 
-- **Programming Languages**: Python, JavaScript, PHP, Kotlin
-- **Frameworks**: Flask, Laravel, React
+- **Programming Languages**: Python, JavaScript, PHP, Java, Kotlin, C, C++
+- **Frameworks**: Flask, Django, Laravel, React, Springboot
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
-- **Mobile Development**: Kotlin (for Android)
+- **Mobile Development**: Kotlin (for Android), Flutter
 - **Other Tools**: Docker, ODK (Open Data Kit), Tailwind CSS
 
 We are always open to exploring and adopting new technologies to expand our impact.
