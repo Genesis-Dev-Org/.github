@@ -32,6 +32,7 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 - **Developer Training**: We host workshops, hackathons, and training programs to empower Malawian developers.
 - **Community Building**: We foster collaboration through meetups, events, and mentorship.
 - **Technology Advocacy**: Promoting the adoption of open-source technology across Malawi and beyond.
+- **Research and Innovation**: Conducting research to address local challenges and developing innovative solutions tailored to the Malawian and African context.
 
 ---
 
@@ -40,6 +41,13 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 Our organization currently supports the following technologies:
 
 - **Programming Languages**: Python, JavaScript, PHP, Java, Kotlin, C, C++
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) [Python](https://www.python.org/)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) [PHP](https://www.php.net/)
+  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) [Java](https://www.java.com/)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white) [Kotlin](https://kotlinlang.org/)
+  ![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=white) [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - **Frameworks**: Flask, Django, Laravel, React, Springboot
 - **Databases**: MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
