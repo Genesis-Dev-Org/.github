@@ -51,24 +51,29 @@ Our organization currently supports the following technologies:
   [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
   
 ### **Frameworks**: 
- >[![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-  [![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
+ >[![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
+  [![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   [![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white)](https://laravel.com/)
   [![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)](https://reactjs.org/)
   [![Springboot](https://img.shields.io/badge/-Springboot-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
   
 ### **Databases**:
-- MySQL, PostgreSQL
+ >[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   
 ### **Version Control**:
-- Git, GitHub
+ >[![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/)
   
 ### **Mobile Development**:
-- Kotlin (for Android), Flutter
+ >[![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+  [![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)](https://flutter.dev/)
   
 ### **Other Tools**:
-- Docker, Tailwind CSS
+ >[![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
+  [![ODK](https://img.shields.io/badge/-ODK-green?logo=opendatakit&logoColor=white)](https://getodk.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 We are always open to exploring and adopting new technologies to expand our impact.
 
