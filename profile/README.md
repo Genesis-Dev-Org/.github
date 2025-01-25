@@ -40,22 +40,31 @@ To be the leading open-source organization in Malawi, creating a thriving ecosys
 
 Our organization currently supports the following technologies:
 
-- **Programming Languages**:
+### **Programming Languages**:
 - Python, JavaScript, PHP, Java, Kotlin, C, C++
   
-  [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
+ >[![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
   [![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)](https://www.java.com/)
   [![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
   [![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+ >[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
   
-- **Frameworks**: Flask, Django, Laravel, React, Springboot
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Mobile Development**: Kotlin (for Android), Flutter
-- **Other Tools**: Docker, ODK (Open Data Kit), Tailwind CSS
+### **Frameworks**: 
+- Flask, Django, Laravel, React, Springboot
+  
+### **Databases**:
+- MySQL, PostgreSQL
+  
+### **Version Control**:
+- Git, GitHub
+  
+### **Mobile Development**:
+- Kotlin (for Android), Flutter
+  
+### **Other Tools**:
+- Docker, Tailwind CSS
 
 We are always open to exploring and adopting new technologies to expand our impact.
 
