@@ -49,6 +49,7 @@ Our organization currently supports the following technologies:
   [![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
   [![C](https://img.shields.io/badge/-C-gray?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
   [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   
 ### **Frameworks**: 
  >[![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -61,6 +62,11 @@ Our organization currently supports the following technologies:
 ### **Databases**:
  >[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![SQLite](https://img.shields.io/badge/-SQLite-lightblue?logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
+  [![Redis](https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white)](https://redis.io/)
+  [![Apache Derby](https://img.shields.io/badge/-Apache%20Derby-DF7401?logo=apache&logoColor=white)](https://db.apache.org/derby/)
+  [![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-darkred?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
   
 ### **Version Control**:
  >[![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)](https://git-scm.com/)
@@ -74,6 +80,14 @@ Our organization currently supports the following technologies:
  >[![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
   [![ODK](https://img.shields.io/badge/-ODK-green?logo=opendatakit&logoColor=white)](https://getodk.org/)
   [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+  [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
+  [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+  [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![OpenAPI](https://img.shields.io/badge/-OpenAPI-85EA2D?logo=openapiinitiative&logoColor=black)](https://www.openapis.org/)
+  [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
+  [![API Blueprint](https://img.shields.io/badge/-API%20Blueprint-003B57?logo=api&logoColor=white)](https://apiblueprint.org/)
+
 
 We are always open to exploring and adopting new technologies to expand our impact.
 
