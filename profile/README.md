@@ -78,7 +78,6 @@ Our organization currently supports the following technologies:
   
 ### **Other Tools**:
  >[![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
-  [![ODK](https://img.shields.io/badge/-ODK-green?logo=opendatakit&logoColor=white)](https://getodk.org/)
   [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
   [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
