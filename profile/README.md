@@ -65,7 +65,6 @@ Our organization currently supports the following technologies:
   [![SQLite](https://img.shields.io/badge/-SQLite-lightblue?logo=sqlite&logoColor=white)](https://sqlite.org/index.html)
   [![Redis](https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white)](https://redis.io/)
   [![Apache Derby](https://img.shields.io/badge/-Apache%20Derby-DF7401?logo=apache&logoColor=white)](https://db.apache.org/derby/)
-  [![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-darkred?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
   
 ### **Version Control**:
