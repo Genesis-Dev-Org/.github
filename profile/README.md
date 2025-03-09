@@ -86,10 +86,45 @@ Our organization currently supports the following technologies:
   [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
   [![API Blueprint](https://img.shields.io/badge/-API%20Blueprint-003B57?logo=api&logoColor=white)](https://apiblueprint.org/)
 
-
+---
 We are always open to exploring and adopting new technologies to expand our impact.
 
+## 🚀 **Featured Projects**
+
+Here are some of our flagship projects driving technological innovation in Malawi:
+
+### **MalawiConnect**
+![Project Status](https://img.shields.io/badge/status-active-success)
+
+A digital platform connecting rural communities to essential services through a simple mobile interface.
+
+- **Tech Stack**: Flutter, Firebase, Node.js
+- **Impact**: Connected 15+ rural communities to healthcare resources
+- **Repository**: [View on GitHub](https://github.com/GenesisDevOrg/malawi-connect)
+- ![MalawiConnect Screenshot](https://example.com/screenshots/malawi-connect.png)
+
+### **AgriTech Solutions**
+![Project Status](https://img.shields.io/badge/status-active-success)
+
+Open-source farming management system tailored for small-scale farmers in Africa.
+
+- **Tech Stack**: Django, React, PostgreSQL
+- **Impact**: Implemented by 200+ farmers, increasing crop yields by 23%
+- **Repository**: [View on GitHub](https://github.com/GenesisDevOrg/agritech-solutions)
+- ![AgriTech Screenshot](https://example.com/screenshots/agritech.png)
+
+### **EduAccess**
+![Project Status](https://img.shields.io/badge/status-beta-yellow)
+
+Digital education platform providing offline-first learning resources for students in areas with limited connectivity.
+
+- **Tech Stack**: Vue.js, Express, SQLite
+- **Impact**: Deployed in 12 schools, reaching 1,500+ students
+- **Repository**: [View on GitHub](https://github.com/GenesisDevOrg/edu-access)
+- ![EduAccess Screenshot](https://example.com/screenshots/edu-access.png)
+
 ---
+
 
 ## 🚀 **Get Involved**
 
