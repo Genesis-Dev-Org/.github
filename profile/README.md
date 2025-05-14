@@ -1,4 +1,4 @@
-# ![Genesis logo](Genesis_Dev_Org.png)
+# ![Genesis logo](GenesisDevOrg.png)
 
 ## Hi there 👋
 Welcome to **Genesis Dev Org**, an open-source organization based in Malawi, dedicated to empowering developers, fostering collaboration, and driving technological innovation for sustainable development.
